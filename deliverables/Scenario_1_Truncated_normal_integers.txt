@@ -1,0 +1,1 @@
+Truncated normal integers: 5 5 4 5 5 7 6 4 4 3 4 3 4 5 5 7 7 4 5 5 
